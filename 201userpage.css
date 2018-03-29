@@ -48,6 +48,7 @@ h2				{
 				box-shadow: 5px 5px 5px grey;
 				z-index:150;
 				}
+
 #background 		{
 				width: 100%;
 				position: absolute;
@@ -57,7 +58,7 @@ h2				{
 				max-height: 900px;
 				
 				}
-				
+			
 main				{
 				margin-top: 1000px;
 				margin-left: 1em;
