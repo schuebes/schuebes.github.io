@@ -62,6 +62,11 @@ h2				{
 				z-index:90 ;
 				
 				}
+				
+main				{
+				margin-top: 68em;
+				margin-left: 1em;
+}
 #backgroundpicture{
 				z-index: 10;
 				
@@ -95,8 +100,8 @@ h2				{
 				
 				clear: left;
 				padding-top: 5em;
-				padding-bottom: 3.5em;
-				margin-top: 60em;
+				padding-bottom: 1em;
+				margin-top: 2em;
 				
 				
 			
